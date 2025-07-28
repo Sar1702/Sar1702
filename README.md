@@ -48,8 +48,8 @@
   </a>
   
   <!-- Express.js with filter to make visible on dark background -->
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="42" height="42" style="filter: invert(1);" />
+  <a target="_blank" href="https://expressjs.com">
+    <img src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" alt="express" width="42" height="42" style="background: white; border-radius: 8px; padding: 2px;" />
   </a>
   
   <!-- MongoDB icon version (white friendly) -->
